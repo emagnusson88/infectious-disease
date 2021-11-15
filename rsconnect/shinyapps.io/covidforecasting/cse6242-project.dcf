@@ -1,0 +1,14 @@
+name: cse6242-project
+title: cse6242-project
+username:
+account: covidforecasting
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4997077
+bundleId: 5188449
+url: https://covidforecasting.shinyapps.io/cse6242-project/
+when: 1635464411.28374
+lastSyncTime: 1635464411.28377
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .ipynb_checkpoints/RH_Takehome-checkpoint.ipynb|.ipynb_checkpoints/stock_data_import-checkpoint.ipynb|.RData|covid.R|ebola1.csv|example.py|generalized_growth.py|generalized_SEIR.py|README.md|SEIQRDV.py
