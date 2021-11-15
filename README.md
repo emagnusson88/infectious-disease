@@ -1,2 +1,2 @@
-# cse6242-project
-Final project for CSE6242
+# Final project for CSE6242
+
